@@ -8,6 +8,7 @@ type Project = {
   slug: string
   title: string
   client: string
+  year?: string
   description: string
   tag: string
 }
