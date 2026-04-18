@@ -1,0 +1,1098 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "contact": "Contact",
+    "about": "About",
+    "all_projects": "← All Projects"
+  },
+  "hero": {
+    "label": "UX Research · Automotive & Digital Product",
+    "name": "Yeonjune Kim",
+    "name_sub": "김연준",
+    "tagline": "I translate user language into product language.",
+    "cta_projects": "View Projects",
+    "cta_contact": "Get in Touch"
+  },
+  "projects_section": {
+    "title": "Featured Projects",
+    "subtitle": "Selected UX research projects",
+    "view_more": "View details →"
+  },
+  "projects": [
+    {
+      "slug": "pbv-digital-ux",
+      "title": "PBV Digital UX Feature Validation Study",
+      "client": "Major Korean Automotive OEM",
+      "description": "A global study verifying the proposed UX features of a major Korean OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
+      "tag": "Automotive",
+      "detail": {
+        "hero": "A global study verifying the proposed UX features of a major Korean OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
+        "overview": {
+          "background": "A major Korean automotive OEM was reviewing specialized UX specifications for commercial vehicles as part of its PBV (Purpose-Built Vehicle) development. Prior to physical vehicle development, the team needed to validate the operational logic of proposed UX features using VR and identify areas for improvement early, while also accounting for differences between the Korean and European (German) commercial vehicle markets.",
+          "goal": [
+            "Validate the operational logic of proposed PBV UX specifications and specialized features",
+            "Derive feature priorities (High / Mid / Low) aligned with the work contexts of cargo van and passenger van drivers"
+          ],
+          "role": [
+            "Study design",
+            "Usability test survey and in-depth interview guideline development",
+            "VR scenario-based usability test moderation",
+            "In-depth interview moderation",
+            "Korea–Germany comparative analysis",
+            "Final report writing"
+          ],
+          "duration": [
+            "Sep 2025 – Dec 2025 (4 months)"
+          ]
+        },
+        "research": {
+          "intro": "We designed a scenario-based usability test using a VR environment to let participants experience each UX feature in real work scenarios. Cargo (Delivery/Worker) and passenger van drivers were recruited separately to reflect differences in work context, with a focus on uncovering additional scenarios applicable to actual job tasks.",
+          "methods": [
+            {
+              "name": "VR-Based Scenario Usability Testing",
+              "description": "The same VR setup was deployed in Seoul (Korea) and Germany, allowing participants to experience the vehicle's proposed UX features within realistic work scenarios. Usefulness and satisfaction were rated on a 7-point scale for each feature.",
+              "count": "Approx. 30 in Korea / Approx. 30 in Germany"
+            },
+            {
+              "name": "In-Depth Interviews",
+              "description": "Interviews were conducted with each participant immediately after the VR session to explore qualitative reactions to each feature and potential usage scenarios in real work contexts. Additional user needs corresponding to requests from the client's development and engineering team were also collected.",
+              "count": "All approx. 60 participants"
+            }
+          ],
+          "photos": [
+            {
+              "src": "/projects/pbv-digital-ux/field-1.jpg",
+              "caption": "VR usability testing photos"
+            },
+            {
+              "src": "/projects/pbv-digital-ux/field-2.jpg",
+              "caption": ""
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Feature priority structures are clearly separated between cargo and passenger van drivers",
+            "description": "Cargo drivers evaluated features primarily around operational efficiency and safety, while passenger van drivers placed higher value on space utilization and passenger comfort. The work context specific to each vehicle type directly influenced overall feature acceptance."
+          },
+          {
+            "number": "02",
+            "title": "Evaluation patterns for the same features diverge significantly between Korean and German markets",
+            "description": "Some features received high usefulness ratings from Korean drivers but were rated comparatively lower by German drivers.\nDifferences in work practices, fleet operation characteristics, and local regulatory environments were identified as the primary factors."
+          },
+          {
+            "number": "03",
+            "title": "Customizable features show stronger demand for integration with work platforms",
+            "description": "Across customizable feature categories, a consistent need for integration with work apps and platforms was identified.\nFlexibility to embed features into existing work flows — rather than standalone functionality — emerged as a key variable in feature acceptance."
+          }
+        ],
+        "outcome": {
+          "summary": "A Korea–Germany comparative priority matrix was derived across multiple proposed UX features, with feature-level improvement insights and recommendations delivered to the client.",
+          "items": [
+            {
+              "label": "Features validated",
+              "value": "00 UX Features"
+            },
+            {
+              "label": "Sample Size",
+              "value": "Approx. 60 (Korea + Germany)"
+            },
+            {
+              "label": "Output",
+              "value": "Research Report (.pptx)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "us-concept",
+      "title": "Global Automotive Parts Manufacturer US New Product Opportunity Study",
+      "client": "Global Automotive Parts Manufacturer",
+      "year": "2025",
+      "description": "An exploratory consumer study to identify new product opportunity areas for a global automotive parts manufacturer entering the US market — conducted on-site in LA and Detroit.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "The client, a global automotive parts manufacturer, was exploring new product directions for the US market, leveraging its automotive manufacturing expertise. An early-stage understanding of American consumers' vehicle usage contexts, unmet needs, and product opportunity areas was needed before committing to a development direction.",
+          "goal": [
+            "Understand US consumers' vehicle usage patterns and unmet needs related to existing product categories",
+            "Identify latent needs through in-context observation and surface new product opportunity areas"
+          ],
+          "role": [
+            "Study design",
+            "US local partner collaboration",
+            "Interview guideline development",
+            "On-site interview moderation (in English)",
+            "Result analysis and report writing"
+          ],
+          "duration": [
+            "Mar – Jun 2025 (4 months)"
+          ]
+        },
+        "research": {
+          "intro": "Working with a US-based local research partner, we conducted multi-method fieldwork across LA and Detroit. The two cities were strategically selected to capture contrasting climate, infrastructure, and cultural contexts — yielding a richer range of consumer insights.",
+          "methods": [
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "Group discussions in LA and Detroit, segmented by vehicle type and buyer profile. Explored unmet needs with existing products and reactions to unapplied features.",
+              "count": "00 participants (5 groups)"
+            },
+            {
+              "name": "Extreme User IDI + Drive Along",
+              "description": "In-home visits (Home Tour + Car Tour) followed by ride-along observation to capture vehicle usage behavior in real-life context. Surfaced unarticulated pain points and latent needs.",
+              "count": "00 participants"
+            },
+            {
+              "name": "Semi-Professional In-Depth Interviews",
+              "description": "Online interviews with automotive enthusiasts and industry-adjacent participants to capture expert-level perspectives not accessible through general consumer research.",
+              "count": "Select sessions"
+            }
+          ],
+          "photos": [
+            {
+              "src": "/projects/us-concept/drive-along.jpg",
+              "caption": "Field interview photos"
+            },
+            {
+              "src": "/projects/us-concept/IMG_7809.jpg",
+              "caption": ""
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Product acceptance expands from functional reliability to emotional value — but only in that order",
+            "description": "For electrified components, mass-market consumers prioritized operational reliability above all else,\nwhile premium and EV segment users showed clear interest in design aesthetics and personalization — but only when basic reliability was assumed.\nEmotional appeals backfired when reliability concerns hadn't been addressed, amplifying rather than offsetting worry about malfunctions."
+          },
+          {
+            "number": "02",
+            "title": "Climate and culture differences between LA and Detroit produce meaningfully divergent feature needs",
+            "description": "Detroit consumers selected cold-weather durability and freeze-resistance as core requirements,\nwhile LA consumers showed stronger interest in EV-compatible design and premium experiential features.\nThe same product requires different core value propositions depending on the target region."
+          },
+          {
+            "number": "03",
+            "title": "Personalization experience emerges as the core opportunity space in EV and premium segments",
+            "description": "Strong demand for personalized in-car experiences — welcome sequences, driver-responsive lighting and sound — was concentrated among EV and premium vehicle users. Products positioned as active, context-aware agents rather than passive components represent the most differentiated long-term opportunity."
+          }
+        ],
+        "outcome": {
+          "summary": "Vehicle usage context, product-level unmet needs, and new product opportunity areas were synthesized and delivered to the client as a foundation for their US market product strategy.",
+          "items": [
+            {
+              "label": "Research markets",
+              "value": "US (LA, Detroit)"
+            },
+            {
+              "label": "Sample Size",
+              "value": "00 participants"
+            },
+            {
+              "label": "Output",
+              "value": "Research Report (.pptx)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "europe-spec-value",
+      "title": "European Feature Value Study",
+      "client": "Major Korean Automotive OEM",
+      "year": "2024",
+      "description": "A quantitative and qualitative study measuring European consumer acceptance and perceived value of future vehicle features across 10 vehicle segments. Used KANO analysis and price elasticity modeling to identify optimal value ranges and feature adoption strategies.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "A major Korean automotive OEM conducted a comprehensive feature value study spanning 10 vehicle segments, accounting for the fact that perceived spec value differs by vehicle class.",
+          "goal": [
+            "Deliver optimal value ranges and feature adoption strategies using Kano analysis and the Price Sensitivity Meter (PSM)"
+          ],
+          "role": [
+            "Quantitative gang survey and Mini-FGD management (in collaboration with local research firm)",
+            "Data analysis",
+            "Report writing"
+          ],
+          "duration": [
+            "Jun 2024 – Sep 2024 (4 months)"
+          ]
+        },
+        "research": {
+          "intro": "A quantitative gang survey measured feature acceptance and perceived value at scale, while Mini-FGDs explored real-life usage contexts and scenarios. Kano analysis was applied to classify feature characteristics.",
+          "methods": [
+            {
+              "name": "Quantitative Gang Survey",
+              "description": "European primary drivers aged 20–50 who purchased a vehicle in the past 2–3 years, equal quotas per segment across 10 segments.\nSurvey comprised: standalone feature evaluation, Kano analysis, unaided price expectation, and a 4-step acceptance threshold measurement.",
+              "count": "N=00 approx."
+            },
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "00 group FGD sessions representing 10 vehicle segments — exploring real-life feature usage contexts, value perception gaps arising from limited prior experience, and the presence of low-cost substitutes.",
+              "count": "00 groups (6 per group)"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Most future features are perceived as KANO 'attractive' — nice-to-have, not expected",
+            "description": "The majority of evaluated features were classified as attractive specs —\nfeatures whose absence is acceptable but whose presence generates delight. Connectivity, infotainment, and convenience features were additionally recognized as higher-necessity specs."
+          },
+          {
+            "number": "02",
+            "title": "Design features have low necessity but adopt when price surprises to the downside",
+            "description": "Design-oriented features are rated low on necessity, but when the presented price falls below consumer expectations, acceptance forms quickly\nand adoption rates rise substantially."
+          },
+          {
+            "number": "03",
+            "title": "Features with no prior experience or cheap substitutes are systematically undervalued",
+            "description": "Features that consumers haven't experienced — or can approximate cheaply with existing substitutes — receive low value ratings.\nThese features require downward price adjustment or dedicated trial opportunities to unlock adoption."
+          }
+        ],
+        "outcome": {
+          "summary": "Delivered a feature value matrix covering Kano classification, optimal value ranges, and the price threshold required for target adoption per feature category.\nFindings directly supported the client's internal decision-making on European feature adoption.",
+          "items": [
+            {
+              "label": "Sample Size",
+              "value": "Gang survey 000\nFGD 00 groups"
+            },
+            {
+              "label": "Vehicle segments",
+              "value": "10 segments"
+            },
+            {
+              "label": "Analysis methods",
+              "value": "Kano analysis\nPrice sensitivity analysis"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "d-seg-ethno",
+      "title": "D-Segment Ethnography",
+      "client": "Global Premium Automotive Brand (via Global Research Agency)",
+      "year": "2024",
+      "description": "An in-depth ethnographic study with luxury D-segment vehicle owners in Korea (G90, BMW X7, Range Rover, A8, etc.) exploring lifestyle, vehicle and brand perception, design preferences, and next-vehicle needs.\nConducted locally under a Global Research Agency framework.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "A global premium automotive OEM commissioned market-specific ethnographic research across key markets to assess its global D-segment competitiveness. In South Korea, the goal was to deeply explore how owners — across Genesis, BMW, Mercedes-Benz, Audi, and Porsche — articulate their lifestyle, vehicle purchase journey, interior aesthetic preferences, and expectations for future vehicles, to surface implications for brand strategy.",
+          "goal": [
+            "Deeply explore the lifestyle and symbolic meanings D-segment owners in Korea attach to their vehicles",
+            "Assess design and emerging technology preferences to deliver Korean market implications for brand positioning improvement"
+          ],
+          "role": [
+            "Study design (applying Global Research Agency framework)",
+            "In-depth ethnographic interview facilitation",
+            "Observation note-taking",
+            "Data analysis and report writing"
+          ],
+          "duration": [
+            "Oct 2024 – Nov 2024 (2 months)"
+          ]
+        },
+        "research": {
+          "intro": "Applied the Global Research Agency's ethnography methodology, conducting in-depth home visit interviews with each participant.\nSessions took place inside respondents' homes and vehicles, covering a broad range of topics from lifestyle exploration to future vehicle needs.",
+          "methods": [
+            {
+              "name": "In-Depth Ethnographic Interviews",
+              "description": "Home and vehicle visits with D-segment owners, observing lifestyle, living environment, and usage patterns.\nParticipants were recruited by vehicle type (sedan/SUV) and brand.",
+              "count": "00 participants"
+            },
+            {
+              "name": "Moderator Observation Notes & Diary Collection",
+              "description": "Participant-level observation notes and diary-style photo documentation were compiled for each session and recorded in the data platform.",
+              "count": "All participants"
+            }
+          ],
+          "photos": [
+            {
+              "src": "/projects/d-seg-ethno/interview.jpg",
+              "caption": "Field interview photos"
+            },
+            {
+              "src": "/projects/d-seg-ethno/car-interior.jpg",
+              "caption": ""
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "The D-segment vehicle is both a social signal and a source of self-efficacy",
+            "description": "In Korea's 'projected self' culture, a D-segment vehicle is the most visible marker of socioeconomic status. Sedan owners project dignity and social authority, while SUV owners project dynamism and versatility — both dimensions are central to why owners chose their vehicle."
+          },
+          {
+            "number": "02",
+            "title": "Luxury Is Defined by Material Quality and Finish, Not Digital Features",
+            "description": "D-Segment owners assess the level of luxury through sensory details — material texture, stitching precision, and material consistency throughout the interior.\nRather than display size or count, it is the harmony of the spatial layout and the completeness of the finish that determines whether a vehicle reads as truly premium."
+          },
+          {
+            "number": "03",
+            "title": "The client earns loyalty for design consistency but is losing ground to competing OEMs",
+            "description": "Brand owners value its restrained design and driving quality, but feel the brand is undervalued in Korea due to pricing strategy and a diminishing marketing presence. Non-owners perceive the brand as falling behind competing OEMs on performance, comfort, and design innovation."
+          }
+        ],
+        "outcome": {
+          "summary": "Ethnographic insights from 00 Korean D-segment owners were reported to a global premium automotive brand.\nFindings on Korean consumers' brand perception, lifestyle, and future vehicle expectations were compiled into implications for positioning improvement.",
+          "items": [
+            {
+              "label": "Sample Size",
+              "value": "D-Segment owners\n00 participants"
+            },
+            {
+              "label": "Brands Covered",
+              "value": "BMW, Audi,\nMercedes-Benz, and other\npremium automotive brands"
+            },
+            {
+              "label": "Deliverables",
+              "value": "Analysis report (.pptx)\nInterview video with English subtitles"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "smarthings-next-ux",
+      "title": "IoT Platform App Widget & AI Concept Validation Study",
+      "client": "Major Korean Consumer Electronics & IT Company",
+      "description": "A study validating user responses to a new widget concept and AI suggestion feature in a client's IoT platform app.\nCombined widget placement tasks with AI concept evaluation.",
+      "tag": "Digital Product",
+      "detail": {
+        "overview": {
+          "background": "The client was evaluating the introduction of a new widget UI concept and AI suggestion features for their IoT platform app, and needed to understand real user acceptance and concerns in advance. The study also explored U&A of the existing app interface to validate how the new concepts could improve upon it.\nA client-provided prototype was installed on dedicated test phones prepared for the sessions.",
+          "goal": [
+            "Understand user acceptance of the new widget concept and preferred placement patterns",
+            "Validate user responses and concerns across various AI suggestion concept types"
+          ],
+          "role": [
+            "Study setup (UT cam layout configuration and video editing)",
+            "IDI note-taking",
+            "Insight synthesis",
+            "Final report writing"
+          ],
+          "duration": [
+            "Sep 2025 (1 month)"
+          ]
+        },
+        "research": {
+          "intro": "After setting up test phones pre-loaded with a client-provided prototype, the study proceeded sequentially through current app U&A exploration and new concept response collection. Participants were recruited in three groups (high / mid / low) based on the number of connected devices at home to reflect differences in usage patterns.",
+          "methods": [
+            {
+              "name": "In-Depth Interviews (IDI)",
+              "description": "1:1 in-depth sessions covering current app U&A exploration, reactions after viewing the new widget concept video, and responses to AI suggestion concepts.",
+              "count": "00 participants"
+            },
+            {
+              "name": "Widget Placement Task",
+              "description": "An individual task using paper prototypes, where participants arranged their own widget home screen layout. Explored placement preferences and priority criteria in real usage contexts.",
+              "count": "All participants"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "The widget concept is positively received in terms of device control efficiency and design",
+            "description": "Reducing the additional depth previously required for detailed control was the key acceptance factor. The richer color palette and improved information readability were also rated positively."
+          },
+          {
+            "number": "02",
+            "title": "AI suggestions are accepted when aligned with the user's current intent and context, but trigger rejection when they interfere with control goals",
+            "description": "Users enter the app with a clear intent to control devices, and suggestions that interrupt this flow generated strong negative reactions. Expectations for AI assistance were concentrated in routine and automation setup rather than device control itself."
+          },
+          {
+            "number": "03",
+            "title": "Widget placement decisions are driven by control frequency and the need for detailed interaction",
+            "description": "A consistent pattern emerged of placing frequently used, detail-heavy devices at the top and right side of the screen. Users strongly preferred fitting all widgets within a single page, prioritizing control widgets over monitoring ones."
+          }
+        ],
+        "outcome": {
+          "summary": "User responses and widget placement preferences regarding the widget concept and AI suggestion feature were compiled and delivered to the client. A research report covering acceptance levels and concerns by concept type was provided.",
+          "items": [
+            {
+              "label": "Sample Size",
+              "value": "00 participants"
+            },
+            {
+              "label": "Output",
+              "value": "Research Report (.pptx)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "wow-midnight-positioning",
+      "title": "Global MMORPG Expansion Pack Positioning & Messaging Study",
+      "client": "Global Gaming Company (via Global Research Agency)",
+      "year": "2025",
+      "description": "A qualitative study validating the positioning and messaging strategy for a major MMORPG's upcoming expansion. Separate FGD groups for active players, lapsed players, and non-players explored message receptiveness and return/acquisition potential.",
+      "tag": "Digital Product",
+      "detail": {
+        "overview": {
+          "background": "A global game publisher needed to validate ahead of a new MMORPG expansion launch how its positioning strategy and key messages would land across target user segments. Participated as the Korean market partner in collaboration with a global research agency.",
+          "goal": [
+            "Assess how the expansion's positioning and core messages land across active, lapsed, and potential player segments",
+            "Identify new content reactions and derive segment-level communication strategy directions"
+          ],
+          "role": [
+            "FGD note-taking",
+            "Respondent recruiting",
+            "Results reporting"
+          ],
+          "duration": [
+            "Apr 2025 – May 2025 (2 months)"
+          ]
+        },
+        "research": {
+          "intro": "Three player segments (Active, Lapsed, Non-player Potential) and two age bands (18–35, 35–49)\nwere recruited separately and grouped into FGDs.",
+          "methods": [
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "Six FGD groups were conducted across Active, Lapsed, and Non-player Potential segments — each split by age band (18–35 and 35–49). Sessions explored reactions to the expansion's positioning, messaging, and creative concepts using a structured Discussion Guide co-developed with the global agency.",
+              "count": "00 groups total"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Active players respond to lore continuity; lapsed players need a concrete reason to return",
+            "description": "Current active players reacted positively to narrative and world-building continuity. Lapsed players, by contrast, needed the messaging to clearly answer 'what has changed since I left' — without that, the expansion felt like more of the same rather than a meaningful re-entry point."
+          },
+          {
+            "number": "02",
+            "title": "For potential players, years of accumulated content feel like a barrier, not a feature",
+            "description": "The long-running nature of the game — while a strength for veterans — created a psychological entry barrier for non-players. Messaging that clearly positions the expansion as accessible to first-time players substantially increased openness to trying the game."
+          },
+          {
+            "number": "03",
+            "title": "18–35 and 35–49 players have distinct motivations and engagement styles",
+            "description": "The 18–35 group prioritized fresh content volume and community activity. The 35–49 group weighed nostalgia for past experiences against the current time investment the game demands — making value-for-time a central evaluation criterion."
+          }
+        ],
+        "outcome": {
+          "summary": "Delivered segment-level message receptiveness findings and communication direction recommendations to the global research agency, with a dedicated Korean market implications section highlighting local nuances.",
+          "items": [
+            {
+              "label": "Player Segments",
+              "value": "Active · Lapsed · Potential\n3 groups"
+            },
+            {
+              "label": "Age Bands",
+              "value": "18–35 / 35–49"
+            },
+            {
+              "label": "Sample Size",
+              "value": "00 participants"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "apartment-interior-trend",
+      "title": "Korean Apartment Interior Trend Exploration",
+      "client": "Major Korean Corporation (undisclosed)",
+      "year": "2024",
+      "description": "An exploratory expert interview study examining shifts in Korean apartment interior trends — capturing industry practitioner perspectives on evolving consumer needs, emerging styles, and material preferences to inform product and service development.",
+      "tag": "Consumer & Lifestyle",
+      "detail": {
+        "overview": {
+          "background": "As South Korea's apartment interior market matures, consumer preferences are fragmenting and upgrading. The client needed an early read on the latest interior trends and their underlying drivers — from industry practitioners with direct market exposure — to feed into product and service planning.",
+          "goal": [
+            "Explore the current direction of Korean apartment interior trends and changing consumer needs through practitioner perspectives",
+            "Distill actionable implications for the client's product and service strategy"
+          ],
+          "role": [
+            "Expert recruitment",
+            "IDI facilitation",
+            "Insight synthesis and reporting"
+          ],
+          "duration": [
+            "2024, second half"
+          ]
+        },
+        "research": {
+          "intro": "We prioritized industry practitioner insight over direct consumer research — an exploratory approach appropriate for rapidly evolving trend topics where practitioners observe consumer behavior patterns in aggregate. Interior designers, construction industry experts, and trend specialists were targeted.",
+          "methods": [
+            {
+              "name": "Expert In-Depth Interviews (IDI)",
+              "description": "1:1 in-depth interviews with 3 apartment interior industry experts — exploring current consumer demand shifts, emerging styles and materials, and the direction the market is heading.",
+              "count": "3 experts"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Expanded community facilities are redefining kitchens and living rooms as spaces for social display — reducing demand for in-unit cooking and study space",
+            "description": "As apartment complexes add cafeterias, study rooms, and fitness centers, residents' need for in-unit cooking, storage, and home offices is declining. In their place, kitchens and living rooms are becoming social and showcase spaces — driving demand for wide dining tables, open-plan layouts, and visually polished interiors."
+          },
+          {
+            "number": "02",
+            "title": "Floor plan trends are shifting from 'maximize rooms' (4th gen) to 'maximize openness and views' (5th gen)",
+            "description": "The dominant layout is moving from four bedrooms, ㄷ-shaped kitchens, and maximum in-unit storage toward three bedrooms, wide 11-line dining areas, and view-facing fixed windows. Dedicated storage units, pantries, and entry closets now handle storage outside the main living space, freeing it for openness."
+          },
+          {
+            "number": "03",
+            "title": "Rising design literacy and smart convenience demands are emerging as the new competitive battleground in residential development",
+            "description": "Post-pandemic exposure to interior design via social media and TV has raised consumer standards — fueling demand for personalized packages and imported furniture. Simultaneously, app-controlled community management, last-mile delivery robots, two-car-per-household parking design, and wider window openings are becoming must-have differentiators in new residential launches."
+          }
+        ],
+        "outcome": {
+          "summary": "Practitioner-sourced apartment interior trend findings provided the client with an industry-view baseline for product and service planning decisions.",
+          "items": [
+            {
+              "label": "Method",
+              "value": "Expert IDI"
+            },
+            {
+              "label": "Experts interviewed",
+              "value": "3"
+            },
+            {
+              "label": "Study type",
+              "value": "Exploratory research"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "bixby-va-heuristic",
+      "title": "Voice Agent Speech Input Analysis & VUX Evaluation",
+      "client": "Major Korean Consumer Electronics & IT Company",
+      "description": "A VUX evaluation study assessing the interactions of two voice agents embedded in the company's smartphones.\nIdentified 00 UX issues across 00 categories with improvement directions.",
+      "tag": "Digital Product",
+      "detail": {
+        "overview": {
+          "background": "Participated in a project evaluating the English utterance interactions of two voice agents embedded in the company’s smartphones.\nThe core task was to systematically identify UX issues in English-language usage and derive improvement directions.",
+          "goal": [
+            "Classify voice agent interaction issues in English utterance environments by type and pattern",
+            "Derive prioritized improvement directions for identified issues"
+          ],
+          "role": [
+            "Korean/English speech input testing",
+            "Issue derivation and classification"
+          ],
+          "duration": [
+            "Oct 2024 (1 month)"
+          ]
+        },
+        "research": {
+          "intro": "Analyzed the voice agent interaction flow step by step using Korean and English utterances,\nidentifying mismatch patterns between intended commands and actual system responses.",
+          "methods": [
+            {
+              "name": "Korean/English Speech Input Testing",
+              "description": "Conducted utterance scenario testing across multiple environments including first-party and competitor devices.\nLogged mismatches between intended commands and actual system responses to surface recurring patterns.",
+              "count": "Multiple device environments"
+            },
+            {
+              "name": "Issue Classification & Typology",
+              "description": "Organized discovered issues by interaction flow stage and derived recurring patterns.\nSorted by occurrence frequency and user impact to establish improvement priorities.",
+              "count": "00 categories / 00 issues"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Background noise and speech characteristics undermine wake word reliability",
+            "description": "Loud music, video playback, and timer alarms all cause wake word recognition failure. Pauses during speech and low or dropping vocal pitch also trigger premature input termination. The voice agent lacks sufficient robustness for the noisy, varied environments of real daily use."
+          },
+          {
+            "number": "02",
+            "title": "Context over-application and under-application co-exist, eroding user trust",
+            "description": "The voice agent both over-applies prior utterance context (acting on outdated intent) and fails to apply it when users expect continuity. The root cause is that context is determined by system-internal state (input field activation) rather than user behavioral context — a misaligned design assumption."
+          },
+          {
+            "number": "03",
+            "title": "Device control commands are frequently misrouted to internet search",
+            "description": "Requests to control smart home devices — TV playback, air purifier mode changes, lighting — were frequently mishandled as internet searches. The pattern reveals that the voice agent struggles to reliably distinguish between device-control intent and information-retrieval intent when commands are phrased naturally."
+          }
+        ],
+        "outcome": {
+          "summary": "Identified and organized key UX issues in the English utterance environment, with improvement directions for each.",
+          "items": [
+            {
+              "label": "Issue Categories",
+              "value": "00"
+            },
+            {
+              "label": "Issues Identified",
+              "value": "00"
+            },
+            {
+              "label": "Test Scope",
+              "value": "Korean/English Utterances"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "mi-insights-forum",
+      "title": "MI Insights Forum Operations ('22–'23)",
+      "client": "Major Korean Automotive OEM",
+      "year": "2022–2023",
+      "description": "A two-year market intelligence forum analyzing SDV transition, EV strategy, and emerging trends in the global automotive market.\nIn 2022, covered FoD and EV strategies across four regions (US, Europe, India, China); in 2023, analyzed EV, SDV, and infotainment strategies\nacross five regions (US, Europe, ASEAN, China, India).",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "The client needed a comprehensive view of FoD subscription service dynamics and EV market evolution across major global markets (2022), followed in 2023 by a structured analysis of how emerging Chinese EV brands were outpacing traditional OEMs in infotainment and SDV innovation.",
+          "goal": [
+            "2022: Intelligence gathering across four regions — US (FoD strategy), Europe (EV pricing structure), India (EV policy & infrastructure), China (EV brands & channels)",
+            "2023: Analysis of EV, SDV, and infotainment strategies across five regions — US, Europe, ASEAN, China, and India"
+          ],
+          "role": [
+            "Forum operations",
+            "Regional expert recruiting and management",
+            "Desk research",
+            "Presentation review and translation",
+            "Forum subtitle video production"
+          ],
+          "duration": [
+            "Sep – Dec 2022 (4 months)",
+            "Sep 2023 – Jan 2024 (5 months)"
+          ]
+        },
+        "research": {
+          "intro": "Collaborated with regional research partners for recruiting and operations. For 2023, worked with local experts across five regions (US, Europe, ASEAN, China, India) to collect and analyze primary sources (company presentations, product reviews) and secondary sources (market reports, policy documents).",
+          "methods": [
+            {
+              "name": "[2022] Four-Region Research",
+              "description": "Conducted regional research with local partners: US (Tesla FoD strategy + consumer survey), Europe (EV mid-to-long-term pricing desk research + expert interviews), India (EV policy & infrastructure trends), China (EV brand & channel case analysis).",
+              "count": "4 regions"
+            },
+            {
+              "name": "[2023] Five-Region Research",
+              "description": "US & Europe (EV/SDV strategy), ASEAN (production base utilization and FTA strategy), China (infotainment R&D types, HMI trends, SDV transition cases), India (powertrain strategy) — conducted with regional experts and local partners.",
+              "count": "5 regions"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "FoD only succeeds when focused on value consumers can experience immediately",
+            "description": "Tesla's FoD strategy concentrates on features with instantly perceptible value. Subscription models built around features consumers don't recognize as valuable face strong resistance."
+          },
+          {
+            "number": "02",
+            "title": "Self-development strategy offers the highest chance of infotainment innovation success",
+            "description": "Traditional supplier-dependent approaches produce mediocre results due to cross-domain coordination failures, while OEM+IT joint ventures suffer from internal conflicts that undermine longevity. Strategies like Li Xiang and NIO — which vertically integrate while owning the full experience definition — are best positioned to deliver differentiated products."
+          },
+          {
+            "number": "03",
+            "title": "Proactive response to region-specific regulatory timelines is essential for EV strategy",
+            "description": "India's BS7 transition and the uneven pace of EV adoption across European markets demand region-specific approaches rather than a single global strategy. Proactive positioning aligned with policy timelines is the key variable in capturing market share."
+          }
+        ],
+        "outcome": {
+          "summary": "Planned and delivered the MI Insights Forum across two consecutive years, synthesizing global EV and SDV market intelligence into trilingual presentation materials (Korean, English, Chinese) for the client's internal strategic planning.",
+          "items": [
+            {
+              "label": "Forum Years",
+              "value": "2022 / 2023"
+            },
+            {
+              "label": "Regions Covered",
+              "value": "2022: 4 regions\n2023: 5 regions"
+            },
+            {
+              "label": "Presentation Languages",
+              "value": "Korean · English · Chinese"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "commercial-truck",
+      "title": "Next-Gen Light Commercial Truck Product Competitiveness Study",
+      "client": "Major Korean Automotive OEM",
+      "year": "2024",
+      "description": "A consumer product competitiveness study for a next-generation light commercial truck, covering exterior, interior, features, and trim.\nCombined a gang survey and FGDs to map consumer preferences and purchase intent across electrification and LPDi powertrain options.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "South Korea's light commercial truck market faces sustained demand decline due to an aging workforce. The client needed to assess consumer product perceptions and feature preferences ahead of the next-generation model's launch to guide specification decisions.",
+          "goal": [
+            "Assess the next-generation light commercial truck across exterior/interior design competitiveness, feature necessity and preference, trim composition appropriateness, and consumer response",
+            "Reflect findings in launch strategy and specification prioritization decisions"
+          ],
+          "role": [
+            "Study design",
+            "Gang survey management",
+            "FGD note-taking",
+            "Stimulus card production",
+            "Data analysis and report writing"
+          ],
+          "duration": [
+            "Oct 2024 – Dec 2024 (3 months)"
+          ]
+        },
+        "research": {
+          "intro": "We designed a mixed-method structure: quantitative survey to establish directional findings at scale, followed by FGDs to excavate the contextual 'why' behind the numbers. Powertrain preference groups (LPDi vs. EV) were analyzed separately to capture divergent usage patterns.",
+          "methods": [
+            {
+              "name": "Gang Survey",
+              "description": "A development-stage vehicle buck and the current model were displayed side by side on-site. Current light truck owners and purchase-intenders directly compared and evaluated both vehicles across exterior design, interior, features, trim, and powertrain.",
+              "count": "approx. 300"
+            },
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "Separate groups for LPDi and EV preference segments explored purchase rationale, real-world feature usage context, and reactions to trim configurations in depth.",
+              "count": "Multiple groups"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "The next-gen truck earns overwhelming design preference by breaking the 'workhorse' mold",
+            "description": "An exterior design language that conveys both refinement and toughness emerged as the primary preference driver. Exterior elements that improve practicality and a clean aesthetic were especially well-received."
+          },
+          {
+            "number": "02",
+            "title": "LPDi perception is improving but still carries legacy skepticism",
+            "description": "Negative preconceptions around LPDi have not fully dissolved, but actual users tend to report satisfaction with engine performance. EV adoption faces strong range anxiety — even for primarily urban delivery use, consumers expressed significant concern about AER adequacy."
+          },
+          {
+            "number": "03",
+            "title": "Safety features and driving convenience options dominate preference rankings",
+            "description": "Safety-enhancing features and driving convenience options dominated the preference rankings. Improved nighttime visibility and enhanced crash safety were the primary rationales behind these choices."
+          }
+        ],
+        "outcome": {
+          "summary": "Delivered a comprehensive product competitiveness diagnostic across all dimensions — exterior, interior, features, trim, and powertrain — directly contributing to launch strategy and specification prioritization decisions.",
+          "items": [
+            {
+              "label": "Quantitative survey",
+              "value": "approx. 300"
+            },
+            {
+              "label": "Evaluation scope",
+              "value": "Exterior · Interior · Features · Trim · Powertrain"
+            },
+            {
+              "label": "Powertrain coverage",
+              "value": "LPDi and EV analyzed in parallel"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "c-suv-positioning",
+      "title": "Automotive OEM C-SUV EV Positioning Clinic",
+      "client": "Major Korean Automotive OEM",
+      "year": "2023",
+      "description": "A global car clinic validating the product competitiveness and positioning strategy of a C-SUV EV.\nExplored design, USP, brand value, and consumer segmentation with consumers in Germany and China.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "As competition in China's EV market intensified with the rise of local brands like NIO, Xpeng, and BYD, a major Korean automotive OEM needed to validate how its C-SUV EV's design, USPs, and positioning landed with actual target consumers. Running simultaneous car clinics in China and Germany was the core task — to capture and compare market-level differences in consumer response.",
+          "goal": [
+            "Validate the vehicle's exterior design preference, core USP market viability, brand premium perception, and consumer segmentation",
+            "Refine the global positioning strategy through simultaneous Germany and China market comparison"
+          ],
+          "role": [
+            "Study design",
+            "Car clinic operations",
+            "Data analysis",
+            "Report writing"
+          ],
+          "duration": [
+            "Jul – Nov 2022 (5 months)"
+          ]
+        },
+        "research": {
+          "intro": "Applied a car clinic methodology using 3D vehicle imagery (VRED files) to explore consumer reactions. Conducted in Shanghai (China) and Frankfurt (Germany) to enable cross-market comparative analysis.",
+          "methods": [
+            {
+              "name": "Positioning Clinic (Gang Survey)",
+              "description": "Explored the C-SUV EV's design, competitive positioning, USP validity, and feature preferences through a car clinic format.",
+              "count": "China 00, Germany 00"
+            },
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "Conducted small-group discussions with selected participants from the gang survey to explore the context and perceptions behind the quantitative findings.",
+              "count": "Multiple groups"
+            },
+            {
+              "name": "Consumer Photo Diary + IDI",
+              "description": "Collected consumers' lifestyle and vehicle usage experiences through a pre-study photo diary, followed by individual in-depth interviews.",
+              "count": "Multiple groups"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Lower EV brand recognition versus competitors limited price premium acceptance in both markets",
+            "description": "In both markets, the OEM's EV brand recognition lagged significantly behind competitors,\ndirectly suppressing consumer willingness to pay a price premium for the vehicle."
+          },
+          {
+            "number": "02",
+            "title": "The bold, distinctive exterior design appeals to self-expressive buyers — but limits mainstream positioning reach",
+            "description": "The bold, distinctive exterior design drew strong positive responses from self-expressive consumer segments,\nbut was perceived as unfamiliar by mainstream consumers — limiting its positioning reach."
+          },
+          {
+            "number": "03",
+            "title": "Long-range driving capability and interior spaciousness were validated as the model's core USPs across both markets",
+            "description": "Across both markets, long-range AER and interior spaciousness emerged as the top EV purchase drivers,\nvalidating these as the vehicle's strongest and most defensible USPs."
+          }
+        ],
+        "outcome": {
+          "summary": "Conducted car clinics across Germany and China to define the core USP communication direction and global positioning strategy for the client's C-SUV EV.",
+          "items": [
+            {
+              "label": "Markets",
+              "value": "Germany (Frankfurt)\nChina (Shanghai)"
+            },
+            {
+              "label": "Methods",
+              "value": "Car Clinic, FGD, IDI"
+            },
+            {
+              "label": "Deliverables",
+              "value": "Analysis report (.pptx)\nQuantitative databook (.pptx)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "brazil-c-suv",
+      "title": "Brazil C-SUV Market & Consumer Research",
+      "client": "Major Korean Automotive OEM",
+      "year": "2022",
+      "description": "A mixed-methods study to understand the growth trajectory and consumer landscape of Brazil's C-SUV market.\nCombining desk research, expert IDIs, consumer FGDs, and quantitative survey to define target consumer segments\nand strategic implications for the client.",
+      "tag": "Automotive",
+      "detail": {
+        "overview": {
+          "background": "Brazil's C-SUV market was growing on a foundation of affluent, aspirational consumers, with further expansion expected as the price gap with smaller segments narrowed. The client needed a deep understanding of local consumer dynamics to reposition its C-SUV model and plan its broader product strategy in Brazil.",
+          "goal": [
+            "Identify the growth drivers and consumer characteristics of Brazil's C-SUV market and develop a purchase-motivation-based consumer segmentation",
+            "Deliver product and marketing strategy direction for the client"
+          ],
+          "role": [
+            "Brazil fieldwork operations",
+            "Desk research",
+            "NCBS quantitative data integration",
+            "Report writing"
+          ],
+          "duration": [
+            "Apr 2022 – Aug 2022 (5 months)"
+          ]
+        },
+        "research": {
+          "intro": "The study was structured to link existing NCBS (New Car Buyer Survey) quantitative data with the new research for integrated analysis.\nExpert IDIs established the market hypothesis; consumer FGDs and a quantitative survey refined and validated it.",
+          "methods": [
+            {
+              "name": "Expert In-Depth Interviews (IDI)",
+              "description": "Brazilian automotive industry experts based in São Paulo provided contextual grounding on C-SUV market dynamics, consumer characteristics, and market trends — establishing hypotheses for the main consumer study.",
+              "count": "Multiple experts"
+            },
+            {
+              "name": "Focus Group Discussion (FGD)",
+              "description": "C-SUV owners and purchase intenders explored vehicle purchase motivation, brand perceptions, feature needs, and future outlook.\nA separate group of the client's C-SUV model owners was run to capture incumbent user perspective.",
+              "count": "Multiple groups"
+            },
+            {
+              "name": "Quantitative Survey (NCBS-linked)",
+              "description": "Integrated analysis with existing NCBS quantitative data validated the directionality and scale of the consumer segmentation emerging from qualitative phases.",
+              "count": "000 participants"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "The C-SUV is both a status symbol and a practical choice for Brazil's road realities",
+            "description": "Brazilian consumers view C-SUVs as visible markers of social status.\nSimultaneously, they are a practical response to Brazil's challenging road conditions — providing safety and comfort for family travel."
+          },
+          {
+            "number": "02",
+            "title": "The client's C-SUV model is trusted as 'young and reliable' — but reads as outdated",
+            "description": "The client lacks brand differentiation versus key competitors. Its C-SUV model, once a pioneer in the segment, is now perceived as dated. Repositioning through new technology and design updates is needed."
+          },
+          {
+            "number": "03",
+            "title": "Consumer motivation and attitude produce distinct segments",
+            "description": "Based on purchase motivation and lifestyle orientation, distinct consumer segments were identified — each with different product attribute requirements and communication needs."
+          }
+        ],
+        "outcome": {
+          "summary": "Delivered a report covering Brazil's C-SUV market growth diagnosis, consumer segmentation findings, and the client's C-SUV model repositioning direction.",
+          "items": [
+            {
+              "label": "Market",
+              "value": "Brazil (São Paulo)"
+            },
+            {
+              "label": "Methods",
+              "value": "Expert IDI, FGD, Quantitative Survey"
+            },
+            {
+              "label": "Deliverable",
+              "value": "Analysis report (.pptx)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "henkel-anti-mosquito",
+      "title": "Global Consumer Goods Company Mosquito Repellent Online HUT",
+      "client": "Global Consumer Goods Company (via Global Research Agency)",
+      "year": "2025",
+      "description": "An online Home Use Test (HUT) with Korean consumers evaluating Global Consumer Goods Company's mosquito repellent product line — exploring real-world usage experience, performance perception, usage context, and improvement directions as part of a Global Research Agency study.",
+      "tag": "Consumer & Lifestyle",
+      "detail": {
+        "overview": {
+          "background": "Global Consumer Goods Company sought to validate the Korean market fit of its mosquito repellent product lineup, capturing real consumer usage experiences and product performance perceptions. The study was conducted as a local partner study within the Global Research Agency research network.",
+          "goal": [
+            "Explore real-world usage experiences with mosquito repellent products — capturing performance perception, scent preference, ease of use, and satisfaction",
+            "Deliver improvement directions and Korean market implications"
+          ],
+          "role": [
+            "Local partner study management",
+            "Participant recruitment and coordination",
+            "HUT design and online survey management",
+            "Data collection and analysis"
+          ],
+          "duration": [
+            "Jul 2025 – Sep 2025 (3 months)"
+          ]
+        },
+        "research": {
+          "intro": "Applied the global research agency's HUT methodology framework — designing an online study where Korean consumers used the product in their real home environment\nbefore reporting their experience through an online survey.",
+          "methods": [
+            {
+              "name": "Online HUT (Home Use Test)",
+              "description": "Products were sent to participants for in-home use over a defined period. Online surveys captured usage experience, performance perception, satisfaction, and improvement suggestions — all reported from real-life context.",
+              "count": "Korean consumer panel"
+            }
+          ]
+        },
+        "findings": [
+          {
+            "number": "01",
+            "title": "Online HUT — Capturing Real-Use Context",
+            "description": "Products were shipped to participants for use during the peak mosquito season (Jul–Sep),\ncollecting responses from natural home environments rather than lab settings."
+          },
+          {
+            "number": "02",
+            "title": "Recruitment Design — Current Electric Liquid Diffuser Users Only",
+            "description": "Recruitment was limited to current users of electric liquid mosquito repellent products,\nenabling comparative evaluation from consumers with existing category experience."
+          },
+          {
+            "number": "03",
+            "title": "Global Framework Integration — Local Partner Operations",
+            "description": "Participated as the local research partner — collecting and delivering Korean consumer data\nin alignment with the global research agency's standard HUT framework."
+          }
+        ],
+        "outcome": {
+          "summary": "Korean consumer usage experience data was integrated into the Global Research Agency framework, contributing to Global Consumer Goods Company's product improvement roadmap and Korean market marketing strategy.",
+          "items": [
+            {
+              "label": "Method",
+              "value": "Online HUT"
+            },
+            {
+              "label": "Study structure",
+              "value": "Global Research Agency partner study"
+            },
+            {
+              "label": "Client",
+              "value": "Global Consumer Goods Company"
+            }
+          ]
+        },
+        "findingsTitle": "Study Design"
+      }
+    }
+  ],
+  "footer": {
+    "role": "UX Research · Automotive & Digital Product",
+    "copyright": "© 2026 Yeonjune Kim. All rights reserved."
+  },
+  "about": {
+    "bio": "With a background in Psychology (BA) and Human-Computer Interaction (PgCert), I have spent 4 years as a UX Researcher translating user data into actionable insights. I have worked with major automotive OEMs, consumer electronics companies, and fintech platforms, leading projects across 7 countries — the US, Germany, India, China, and beyond. My strength lies in bridging the gap between users and product teams through rigorous research and clear, bilingual communication.",
+    "experience": [
+      {
+        "role": "UX Researcher",
+        "org": "Korea Research — UX Division",
+        "location": "Seoul",
+        "period": "2022 – 2026",
+        "bullets": [
+          "Conducted UX research for major automotive OEMs, consumer electronics companies, and fintech platforms",
+          "Managed and moderated projects across 7 countries (US, Germany, India, China, Saudi Arabia, and more)",
+          "Led 100+ in-depth interviews in Korean and English, synthesizing findings into actionable insights",
+          "Designed and executed diverse research methods: Home Visits, Shadowing, VR-based scenario testing",
+          "Produced bilingual (Korean/English) research reports and video deliverables"
+        ]
+      },
+      {
+        "role": "Lieutenant (Intelligence Officer)",
+        "org": "Republic of Korea Army, 1st Artillery Brigade",
+        "location": "Goyang",
+        "period": "2017 – 2019",
+        "bullets": [
+          "Analyzed military intelligence and managed classified documentation",
+          "Collaborated with higher command units and prepared briefing reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "PgCert, Human-Computer Interaction",
+        "school": "University of Nottingham",
+        "location": "UK",
+        "period": "2020 – 2021"
+      },
+      {
+        "degree": "BA, Psychology",
+        "school": "Catholic University of Korea",
+        "location": "Korea",
+        "period": "2012 – 2017",
+        "note": "Exchange Student — University of Ottawa, Canada (2015 – 2016)"
+      }
+    ],
+    "methods": {
+      "title": "Research Methods",
+      "items": [
+        "In-Depth Interviews (IDI)",
+        "Focus Group Discussions (FGD)",
+        "Contextual Inquiry",
+        "Home Visits",
+        "Usability Testing",
+        "VR-Based Scenario Testing",
+        "Diary Studies",
+        "Heuristic Evaluation",
+        "Expert Interviews",
+        "Creative Workshops"
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "items": [
+        "User Research & Analysis",
+        "Project Management",
+        "Bilingual Documentation (KO/EN)",
+        "Stakeholder Communication",
+        "Global Project Operations",
+        "Research Reports & Presentations",
+        "Video Content Production",
+        "User-Centered Design"
+      ]
+    }
+  }
+}
