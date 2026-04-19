@@ -30,6 +30,9 @@ export default async function Home({ params }: PageProps<'/[lang]'>) {
               <p className="text-xl text-gray-500 max-w-lg leading-relaxed">
                 {d.hero.tagline}
               </p>
+              <p className="mt-5 text-base text-gray-400 max-w-lg leading-relaxed">
+                {d.hero.summary}
+              </p>
               <div className="mt-10 flex gap-4">
                 <a
                   href="#projects"
