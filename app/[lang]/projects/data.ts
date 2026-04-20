@@ -14,6 +14,6 @@ export const projectMeta: Record<string, { priority: number; thumbnail?: string 
   'mi-insights-forum':        { priority: 9,  thumbnail: '/projects/mi-insights-forum/thumb.png' },
   'commercial-truck':         { priority: 10, thumbnail: '/projects/commercial-truck/thumb.png' },
   'c-suv-positioning':        { priority: 11, thumbnail: '/projects/c-suv-positioning/thumb.png' },
-  'brazil-c-suv':             { priority: 12 },
-  'henkel-anti-mosquito':     { priority: 13 },
+  'brazil-c-suv':             { priority: 12, thumbnail: '/projects/brazil-c-suv/thumb.png' },
+  'henkel-anti-mosquito':     { priority: 13, thumbnail: '/projects/henkel-anti-mosquito/thumb.png' },
 }
