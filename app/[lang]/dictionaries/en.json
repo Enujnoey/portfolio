@@ -281,7 +281,7 @@
       "tag": "Automotive",
       "detail": {
         "overview": {
-          "background": "A global premium automotive OEM commissioned market-specific ethnographic research across key markets to assess its global D-segment competitiveness. In South Korea, the goal was to deeply explore how owners — across Genesis, BMW, Mercedes-Benz, Audi, and Porsche — articulate their lifestyle, vehicle purchase journey, interior aesthetic preferences, and expectations for future vehicles, to surface implications for brand strategy.",
+          "background": "A global premium automotive OEM commissioned market-specific ethnographic research across key markets to assess its global D-segment competitiveness. In South Korea, the goal was to deeply explore how owners — across premium\nautomotive brands — articulate their lifestyle, vehicle purchase journey, interior aesthetic preferences, and expectations for future vehicles, to surface implications for brand strategy.",
           "goal": [
             "Deeply explore the lifestyle and symbolic meanings D-segment owners in Korea attach to their vehicles",
             "Assess design and emerging technology preferences to deliver Korean market implications for brand positioning improvement"
@@ -329,7 +329,7 @@
           },
           {
             "number": "02",
-            "title": "Luxury Is Defined by Material Quality and Finish, Not Digital Features",
+            "title": "Luxury is defined by material quality and finish, not digital features",
             "description": "D-Segment owners assess the level of luxury through sensory details — material texture, stitching precision, and material consistency throughout the interior.\nRather than display size or count, it is the harmony of the spatial layout and the completeness of the finish that determines whether a vehicle reads as truly premium."
           },
           {
