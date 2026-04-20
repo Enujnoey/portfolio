@@ -646,7 +646,7 @@
       "tag": "Automotive",
       "detail": {
         "overview": {
-          "background": "The client needed a comprehensive view of FoD subscription service dynamics and EV market evolution across major global markets (2022), followed in 2023 by a structured analysis of how emerging Chinese EV brands were outpacing traditional OEMs in infotainment and SDV innovation.",
+          "background": "The client needed a comprehensive view of FoD subscription service dynamics and EV market evolution across major global markets (2022), followed in 2023 by a structured analysis of EV, SDV, and infotainment strategies across five regions — US, Europe, ASEAN, China, and India — with a focus on how emerging players were outpacing traditional OEMs in software-defined vehicle innovation.",
           "goal": [
             "2022: Intelligence gathering across four regions — US (FoD strategy), Europe (EV pricing structure), India (EV policy & infrastructure), China (EV brands & channels)",
             "2023: Analysis of EV, SDV, and infotainment strategies across five regions — US, Europe, ASEAN, China, and India"
@@ -669,12 +669,12 @@
             {
               "name": "[2022] Four-Region Research",
               "description": "Conducted regional research with local partners: US (Tesla FoD strategy + consumer survey), Europe (EV mid-to-long-term pricing desk research + expert interviews), India (EV policy & infrastructure trends), China (EV brand & channel case analysis).",
-              "count": "4 regions"
+              "count": ""
             },
             {
               "name": "[2023] Five-Region Research",
               "description": "US & Europe (EV/SDV strategy), ASEAN (production base utilization and FTA strategy), China (infotainment R&D types, HMI trends, SDV transition cases), India (powertrain strategy) — conducted with regional experts and local partners.",
-              "count": "5 regions"
+              "count": ""
             }
           ]
         },
@@ -682,12 +682,12 @@
           {
             "number": "01",
             "title": "FoD only succeeds when focused on value consumers can experience immediately",
-            "description": "Tesla's FoD strategy concentrates on features with instantly perceptible value. Subscription models built around features consumers don't recognize as valuable face strong resistance."
+            "description": "Tesla's FoD strategy concentrates on features with instantly perceptible value. Subscription models built around features that consumers don't recognize as valuable face strong resistance."
           },
           {
             "number": "02",
             "title": "Self-development strategy offers the highest chance of infotainment innovation success",
-            "description": "Traditional supplier-dependent approaches produce mediocre results due to cross-domain coordination failures, while OEM+IT joint ventures suffer from internal conflicts that undermine longevity. Strategies like Li Xiang and NIO — which vertically integrate while owning the full experience definition — are best positioned to deliver differentiated products."
+            "description": "Traditional supplier-dependent approaches produce poor results due to cross-domain coordination failures, while OEM+IT joint ventures suffer from internal conflicts that undermine longevity. Strategies like Li Xiang and NIO — which vertically integrate while owning the full experience definition — are best positioned to deliver differentiated products."
           },
           {
             "number": "03",
