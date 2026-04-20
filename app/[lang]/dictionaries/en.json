@@ -775,16 +775,16 @@
           "summary": "Delivered a comprehensive product competitiveness diagnostic across all dimensions — exterior, interior, features, trim, and powertrain — directly contributing to launch strategy and specification prioritization decisions.",
           "items": [
             {
-              "label": "Quantitative survey",
-              "value": "approx. 300"
+              "label": "Participants",
+              "value": "Light commercial truck owners and purchase intenders"
             },
             {
-              "label": "Evaluation scope",
-              "value": "Exterior · Interior · Features · Trim · Powertrain"
+              "label": "Methods",
+              "value": "Gang Survey, FGD"
             },
             {
-              "label": "Powertrain coverage",
-              "value": "LPDi and EV analyzed in parallel"
+              "label": "Deliverable",
+              "value": "Analysis report (.pptx)"
             }
           ]
         }
