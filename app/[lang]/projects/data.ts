@@ -8,7 +8,7 @@ export const projectMeta: Record<string, { priority: number; thumbnail?: string 
   'europe-spec-value':        { priority: 3,  thumbnail: '/projects/europe-spec-value/thumb.png' },
   'd-seg-ethno':              { priority: 4,  thumbnail: '/projects/d-seg-ethno/thumb.png' },
   'smarthings-next-ux':       { priority: 5,  thumbnail: '/projects/smarthings-next-ux/thumb.png' },
-  'wow-midnight-positioning': { priority: 6 },
+  'wow-midnight-positioning': { priority: 6,  thumbnail: '/projects/wow-midnight-positioning/thumb.png' },
   'apartment-interior-trend': { priority: 7 },
   'bixby-va-heuristic':       { priority: 8 },
   'mi-insights-forum':        { priority: 9 },
