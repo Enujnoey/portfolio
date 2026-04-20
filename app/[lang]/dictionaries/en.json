@@ -23,14 +23,14 @@
     {
       "slug": "pbv-digital-ux",
       "title": "PBV Digital UX Feature Validation Study",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2025",
-      "description": "A global study verifying the proposed UX features of a major Korean OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
+      "description": "A global study verifying the proposed UX features of a major OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
       "tag": "Automotive",
       "detail": {
-        "hero": "A global study verifying the proposed UX features of a major Korean OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
+        "hero": "A global study verifying the proposed UX features of a major OEM's PBV (Purpose-Built Vehicle) in a VR environment with commercial vehicle drivers in Korea and Germany. Contributed to deriving improvement recommendations by differentiating between cargo van and passenger van drivers.",
         "overview": {
-          "background": "A major Korean automotive OEM was reviewing specialized UX specifications for commercial vehicles as part of its PBV (Purpose-Built Vehicle) development. Prior to physical vehicle development, the team needed to validate the operational logic of proposed UX features using VR and identify areas for improvement early, while also accounting for differences between the Korean and European (German) commercial vehicle markets.",
+          "background": "A major automotive OEM was reviewing specialized UX specifications for commercial vehicles as part of its PBV (Purpose-Built Vehicle) development. Prior to physical vehicle development, the team needed to validate the operational logic of proposed UX features using VR and identify areas for improvement early, while also accounting for differences between the Korean and European (German) commercial vehicle markets.",
           "goal": [
             "Validate the operational logic of proposed PBV UX specifications and specialized features",
             "Derive feature priorities (High / Mid / Low) aligned with the work contexts of cargo van and passenger van drivers"
@@ -202,13 +202,13 @@
     {
       "slug": "europe-spec-value",
       "title": "European Feature Value Study",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2024",
       "description": "A quantitative and qualitative study measuring European consumer acceptance and perceived value of future vehicle features across 10 vehicle segments. Used KANO analysis and price elasticity modeling to identify optimal value ranges and feature adoption strategies.",
       "tag": "Automotive",
       "detail": {
         "overview": {
-          "background": "A major Korean automotive OEM conducted a comprehensive feature value study spanning 10 vehicle segments, accounting for the fact that perceived spec value differs by vehicle class.",
+          "background": "A major automotive OEM conducted a comprehensive feature value study spanning 10 vehicle segments, accounting for the fact that perceived spec value differs by vehicle class.",
           "goal": [
             "Deliver optimal value ranges and feature adoption strategies using Kano analysis and the Price Sensitivity Meter (PSM)"
           ],
@@ -360,7 +360,7 @@
     {
       "slug": "smarthings-next-ux",
       "title": "IoT Platform App Widget & AI Concept Validation Study",
-      "client": "Major Korean Consumer Electronics & IT Company",
+      "client": "Major Consumer Electronics & IT Company",
       "description": "A study validating user responses to a new widget concept and AI suggestion feature in a client's IoT platform app. Combined widget placement tasks with AI concept evaluation.",
       "tag": "Digital Product",
       "detail": {
@@ -499,7 +499,7 @@
     {
       "slug": "apartment-interior-trend",
       "title": "Korean Apartment Interior Trend Exploration",
-      "client": "Major Korean Corporation (undisclosed)",
+      "client": "Major Corporation (undisclosed)",
       "year": "2024",
       "description": "An exploratory expert interview study examining shifts in Korean apartment interior trends — capturing their perspectives on evolving consumer needs, emerging styles, and material preferences to inform product and service development.",
       "tag": "Consumer & Lifestyle",
@@ -568,7 +568,7 @@
     {
       "slug": "bixby-va-heuristic",
       "title": "Voice Agent Speech Input Analysis & VUX Evaluation",
-      "client": "Major Korean Consumer Electronics & IT Company",
+      "client": "Major Consumer Electronics & IT Company",
       "description": "A VUX evaluation study assessing the interactions of two voice agents embedded in the company's smartphones.\nIdentified 00 UX issues across 00 categories with improvement directions.",
       "tag": "Digital Product",
       "detail": {
@@ -640,7 +640,7 @@
     {
       "slug": "mi-insights-forum",
       "title": "MI Insights Forum Operations ('22–'23)",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2022–2023",
       "description": "A two-year market intelligence forum analyzing SDV transition, EV strategy, and emerging trends in the global automotive market.\nIn 2022, covered FoD and EV strategies across four regions (US, Europe, India, China); in 2023, analyzed EV, SDV, and infotainment strategies\nacross five regions (US, Europe, ASEAN, China, India).",
       "tag": "Automotive",
@@ -717,7 +717,7 @@
     {
       "slug": "commercial-truck",
       "title": "Next-Gen Light Commercial Truck Product Competitiveness Study",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2024",
       "description": "A consumer product competitiveness study for a next-generation light commercial truck, covering exterior, interior, features, and trim.\nCombined a gang survey and FGDs to map consumer preferences and purchase intent across electrification and LPDi powertrain options.",
       "tag": "Automotive",
@@ -793,13 +793,13 @@
     {
       "slug": "c-suv-positioning",
       "title": "Automotive OEM C-SUV EV Positioning Clinic",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2023",
       "description": "A global car clinic validating the product competitiveness and positioning strategy of a C-SUV EV.\nExplored design, USP, brand value, and consumer segmentation with consumers in Germany and China.",
       "tag": "Automotive",
       "detail": {
         "overview": {
-          "background": "As competition in China's EV market intensified with the rise of local brands like NIO, Xpeng, and BYD, a major Korean automotive OEM needed to validate how its C-SUV EV's design, USPs, and positioning landed with actual target consumers. Running simultaneous car clinics in China and Germany was the core task — to capture and compare market-level differences in consumer response.",
+          "background": "As competition in China's EV market intensified with the rise of local brands like NIO, Xpeng, and BYD, a major automotive OEM needed to validate how its C-SUV EV's design, USPs, and positioning landed with actual target consumers. Running simultaneous car clinics in China and Germany was the core task — to capture and compare market-level differences in consumer response.",
           "goal": [
             "Validate the vehicle's exterior design preference, core USP market viability, brand premium perception, and consumer segmentation",
             "Refine the global positioning strategy through simultaneous Germany and China market comparison"
@@ -873,7 +873,7 @@
     {
       "slug": "brazil-c-suv",
       "title": "Brazil C-SUV Market & Consumer Research",
-      "client": "Major Korean Automotive OEM",
+      "client": "Major Automotive OEM",
       "year": "2022",
       "description": "A mixed-methods study to understand the growth trajectory and consumer landscape of Brazil's C-SUV market.\nCombining desk research, expert IDIs, consumer FGDs, and quantitative survey to define target consumer segments\nand strategic implications for the client.",
       "tag": "Automotive",
