@@ -10,7 +10,7 @@
     "name": "Yeonjune Kim",
     "name_sub": "김연준",
     "tagline": "I translate user language into product language.",
-    "summary": "I studied Psychology and HCI, and I've been working as a UX researcher for five years.\nMost of my work has been with automotive OEMs and major consumer electronics and tech companies.\nThe best part of the job is seeing what I learned from users actually make it into the product.",
+    "summary": "I studied Psychology and Human-Computer Interaction (HCI), and I've been working as a UX researcher for five years.\nMost of my work has been with automotive manufacturers, major consumer electronics, and tech companies.\nThe best part of my job is when what I learned from users actually makes it into the product.",
     "cta_projects": "View Projects",
     "cta_contact": "Get in Touch"
   },
@@ -80,12 +80,12 @@
           },
           {
             "number": "02",
-            "title": "Evaluation patterns for the same features diverge significantly between Korean and German markets",
+            "title": "Korean and German drivers evaluated the same features in different ways",
             "description": "Some features received high usefulness ratings from Korean drivers but were rated comparatively lower by German drivers.\nDifferences in work practices, fleet operation characteristics, and local regulatory environments were identified as the primary factors."
           },
           {
             "number": "03",
-            "title": "Customizable features show stronger demand for integration with work platforms",
+            "title": "Across both markets, drivers wanted customizable features tied to their work related apps or fleet management system",
             "description": "Across customizable feature categories, a consistent need for integration with work apps and platforms was identified.\nFlexibility to embed features into existing work flows — rather than standalone functionality — emerged as a key variable in feature acceptance."
           }
         ],
@@ -110,7 +110,7 @@
     },
     {
       "slug": "us-concept",
-      "title": "Global Automotive Parts Manufacturer US New Product Opportunity Study",
+      "title": "New Product Opportunity Study for the US Automotive Parts Market",
       "client": "Global Automotive Parts Manufacturer",
       "year": "2025",
       "description": "An exploratory consumer study to identify new product opportunity areas for a global automotive parts manufacturer entering the US market — conducted on-site in LA and Detroit.",
@@ -167,16 +167,16 @@
           {
             "number": "01",
             "title": "Product acceptance expands from functional reliability to emotional value — but only in that order",
-            "description": "For electrified components, mass-market consumers prioritized operational reliability above all else,\nwhile premium and EV segment users showed clear interest in design aesthetics and personalization — but only when basic reliability was assumed.\nEmotional appeals backfired when reliability concerns hadn't been addressed, amplifying rather than offsetting worry about malfunctions."
+            "description": "For electrified components, mass-market consumers prioritized operational reliability above all else, while premium and EV segment users showed clear interest in design aesthetics and personalization — but only when basic reliability was assumed. Emotional appeals backfired when reliability concerns hadn't been addressed, amplifying rather than offsetting worry about malfunctions."
           },
           {
             "number": "02",
-            "title": "Climate and culture differences between LA and Detroit produce meaningfully divergent feature needs",
-            "description": "Detroit consumers selected cold-weather durability and freeze-resistance as core requirements,\nwhile LA consumers showed stronger interest in EV-compatible design and premium experiential features.\nThe same product requires different core value propositions depending on the target region."
+            "title": "LA and Detroit wanted different things",
+            "description": "Detroit consumers selected cold-weather durability and freeze-resistance as core requirements, while LA consumers showed stronger interest in EV-compatible design and premium experiential features. The same product requires different core value propositions depending on the target region."
           },
           {
             "number": "03",
-            "title": "Personalization experience emerges as the core opportunity space in EV and premium segments",
+            "title": "Personalization experience emerges as the core opportunity area in EV and premium segments",
             "description": "Strong demand for personalized in-car experiences — welcome sequences, driver-responsive lighting and sound — was concentrated among EV and premium vehicle users. Products positioned as active, context-aware agents rather than passive components represent the most differentiated long-term opportunity."
           }
         ],
@@ -1027,7 +1027,7 @@
     "copyright": "© 2026 Yeonjune Kim. All rights reserved."
   },
   "about": {
-    "bio": "With a background in Psychology (BA) and Human-Computer Interaction (PgCert), I have spent 4 years as a UX Researcher translating user data into actionable insights. I have worked with major automotive OEMs, consumer electronics companies, and fintech platforms, leading projects across 7 countries — the US, Germany, India, China, and beyond. My strength lies in bridging the gap between users and product teams through rigorous research and clear, bilingual communication.",
+    "bio": "With a background in Psychology (BA) and Human-Computer Interaction (PgCert), I have spent 4 years as a UX Researcher translating user data into actionable insights. Most of my work has been with automotive manufacturers, major consumer electronics and tech companies, leading projects across 7 countries — the US, Germany, India, China, and beyond. My strength lies in bridging the gap between users and product teams through rigorous research and clear, bilingual communication.",
     "experience": [
       {
         "role": "UX Researcher",
