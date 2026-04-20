@@ -244,13 +244,13 @@
           },
           {
             "number": "02",
-            "title": "Design features have low necessity but adopt when price surprises to the downside",
-            "description": "Design-oriented features are rated low on necessity, but when the presented price falls below consumer expectations, acceptance forms quickly\nand adoption rates rise substantially."
+            "title": "Design features feel unnecessary — until the price comes in lower than expected",
+            "description": "Design-oriented features are rated low on necessity, but when the presented price falls below consumer expectations, acceptance forms quickly and adoption rates rise substantially."
           },
           {
             "number": "03",
-            "title": "Features with no prior experience or cheap substitutes are systematically undervalued",
-            "description": "Features that consumers haven't experienced — or can approximate cheaply with existing substitutes — receive low value ratings.\nThese features require downward price adjustment or dedicated trial opportunities to unlock adoption."
+            "title": "Consumers undervalue features they haven't tried — especially when a cheap alternative already exists",
+            "description": "Features that consumers have never experienced before, or can already replicate with a low-cost workaround, consistently receive low value ratings. Price reductions or hands-on trial opportunities are needed to shift perception."
           }
         ],
         "outcome": {
