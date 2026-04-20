@@ -11,7 +11,7 @@ export const projectMeta: Record<string, { priority: number; thumbnail?: string 
   'wow-midnight-positioning': { priority: 6,  thumbnail: '/projects/wow-midnight-positioning/thumb.png' },
   'apartment-interior-trend': { priority: 7,  thumbnail: '/projects/apartment-interior-trend/thumb.png' },
   'bixby-va-heuristic':       { priority: 8,  thumbnail: '/projects/bixby-va-heuristic/thumb.png' },
-  'mi-insights-forum':        { priority: 9 },
+  'mi-insights-forum':        { priority: 9,  thumbnail: '/projects/mi-insights-forum/thumb.png' },
   'commercial-truck':         { priority: 10 },
   'c-suv-positioning':        { priority: 11 },
   'brazil-c-suv':             { priority: 12 },
