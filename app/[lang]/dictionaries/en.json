@@ -258,15 +258,15 @@
           "items": [
             {
               "label": "Sample Size",
-              "value": "Gang survey 000\nFGD 00 groups"
+              "value": "Gang Survey 000\nFGD 00 groups"
             },
             {
-              "label": "Vehicle segments",
-              "value": "10 segments"
-            },
-            {
-              "label": "Analysis methods",
+              "label": "Analysis Methods",
               "value": "Kano analysis\nPrice sensitivity analysis"
+            },
+            {
+              "label": "Deliverable",
+              "value": "Research report (.pptx)"
             }
           ]
         }
@@ -288,7 +288,7 @@
           ],
           "role": [
             "Study design (applying Global Research Agency framework)",
-            "In-depth ethnographic interview facilitation",
+            "In-depth ethnographic interview moderation",
             "Observation note-taking",
             "Data analysis and report writing"
           ],
