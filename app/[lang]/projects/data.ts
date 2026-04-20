@@ -13,7 +13,7 @@ export const projectMeta: Record<string, { priority: number; thumbnail?: string 
   'bixby-va-heuristic':       { priority: 8,  thumbnail: '/projects/bixby-va-heuristic/thumb.png' },
   'mi-insights-forum':        { priority: 9,  thumbnail: '/projects/mi-insights-forum/thumb.png' },
   'commercial-truck':         { priority: 10, thumbnail: '/projects/commercial-truck/thumb.png' },
-  'c-suv-positioning':        { priority: 11 },
+  'c-suv-positioning':        { priority: 11, thumbnail: '/projects/c-suv-positioning/thumb.png' },
   'brazil-c-suv':             { priority: 12 },
   'henkel-anti-mosquito':     { priority: 13 },
 }
