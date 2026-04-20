@@ -547,7 +547,7 @@
           }
         ],
         "outcome": {
-          "summary": "Practitioner-sourced apartment interior trend findings provided the client with an industry-view baseline for product and service planning decisions.",
+          "summary": "Expert-sourced apartment interior trend findings provided the client with an industry-view baseline for product and service planning decisions.",
           "items": [
             {
               "label": "Method",
@@ -558,8 +558,8 @@
               "value": "3"
             },
             {
-              "label": "Study type",
-              "value": "Exploratory research"
+              "label": "Deliverable",
+              "value": "Research report (.pptx)"
             }
           ]
         }
