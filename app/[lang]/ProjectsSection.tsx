@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 import { projectMeta } from './projects/data'
 
@@ -91,8 +92,17 @@ export default function ProjectsSection({ projects, lang, sectionTitle, sectionS
             href={`/${lang}/projects/${project.slug}`}
             className="group flex flex-col rounded-2xl border border-gray-100 overflow-hidden hover:shadow-md hover:border-gray-200 transition-all duration-200"
           >
-            {/* 썸네일 placeholder */}
-            <div className="w-full aspect-[4/3] bg-gray-100" />
+            {/* 썸네일 */}
+            <div className="relative w-full aspect-[4/3] bg-gray-100">
+              {projectMeta[project.slug]?.thumbnail && (
+                <Image
+                  src={projectMeta[project.slug].thumbnail!}
+                  alt={project.title}
+                  fill
+                  className="object-cover object-center"
+                />
+              )}
+            </div>
 
             <div className="flex flex-col flex-1 p-5 gap-3">
               <div className="flex items-center gap-2">
