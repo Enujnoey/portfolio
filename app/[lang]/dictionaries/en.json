@@ -361,11 +361,11 @@
       "slug": "smarthings-next-ux",
       "title": "IoT Platform App Widget & AI Concept Validation Study",
       "client": "Major Korean Consumer Electronics & IT Company",
-      "description": "A study validating user responses to a new widget concept and AI suggestion feature in a client's IoT platform app.\nCombined widget placement tasks with AI concept evaluation.",
+      "description": "A study validating user responses to a new widget concept and AI suggestion feature in a client's IoT platform app. Combined widget placement tasks with AI concept evaluation.",
       "tag": "Digital Product",
       "detail": {
         "overview": {
-          "background": "The client was evaluating the introduction of a new widget UI concept and AI suggestion features for their IoT platform app, and needed to understand real user acceptance and concerns in advance. The study also explored U&A of the existing app interface to validate how the new concepts could improve upon it.\nA client-provided prototype was installed on dedicated test phones prepared for the sessions.",
+          "background": "The client was evaluating the introduction of a new widget UI concept and AI suggestion features for their IoT platform app, and needed to understand real user acceptance and concerns in advance. The study also explored U&A of the existing app interface to validate how the new concepts could improve upon it. A client-provided prototype was installed on dedicated test phones prepared for the sessions.",
           "goal": [
             "Understand user acceptance of the new widget concept and preferred placement patterns",
             "Validate user responses and concerns across various AI suggestion concept types"
@@ -455,7 +455,7 @@
           "methods": [
             {
               "name": "Focus Group Discussion (FGD)",
-              "description": "Six FGD groups were conducted across Active, Lapsed, and Non-player Potential segments — each split by age band (18–35 and 35–49). Sessions explored reactions to the expansion's positioning, messaging, and creative concepts using a structured Discussion Guide co-developed with the global agency.",
+              "description": "Three player segments (Active, Lapsed, Non-player Potential) and two age bands (18–35, 35–49) were recruited separately and grouped into FGDs.",
               "count": "00 groups total"
             }
           ]
@@ -469,12 +469,12 @@
           {
             "number": "02",
             "title": "For potential players, years of accumulated content feel like a barrier, not a feature",
-            "description": "The long-running nature of the game — while a strength for veterans — created a psychological entry barrier for non-players. Messaging that clearly positions the expansion as accessible to first-time players substantially increased openness to trying the game."
+            "description": "The long-running nature of the game — while a strength for 'veterans' — created a psychological entry barrier for non-players. Messaging that clearly positions the expansion as accessible to first-time players substantially increased openness to trying the game."
           },
           {
             "number": "03",
             "title": "18–35 and 35–49 players have distinct motivations and engagement styles",
-            "description": "The 18–35 group prioritized fresh content volume and community activity. The 35–49 group weighed nostalgia for past experiences against the current time investment the game demands — making value-for-time a central evaluation criterion."
+            "description": "The 18–35 group wanted new content and an active community to dive into. The 35–49 group compared nostalgia for the game's past against how much time it now demands — for them, whether the game is worth the hours is the key question."
           }
         ],
         "outcome": {
