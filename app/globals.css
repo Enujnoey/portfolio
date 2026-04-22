@@ -1,1 +1,58 @@
 @import "tailwindcss";
+
+@media print {
+  @page {
+    margin: 18mm 20mm;
+    size: A4;
+  }
+
+  /* Hide navigation and interactive elements */
+  header,
+  footer,
+  .lang-toggle-root {
+    display: none !important;
+  }
+
+  /* Hide footer nav (← All Projects) */
+  .border-t.border-gray-100 {
+    display: none !important;
+  }
+
+  /* Remove sticky positioning */
+  * {
+    position: static !important;
+  }
+
+  /* Preserve colors in print */
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Remove min-height */
+  .min-h-screen {
+    min-height: 0 !important;
+  }
+
+  /* Reduce top padding since header is gone */
+  main {
+    padding-top: 8mm !important;
+  }
+
+  /* Avoid page breaks inside cards */
+  section,
+  .rounded-2xl,
+  .rounded-xl {
+    break-inside: avoid;
+  }
+
+  /* Reduce section spacing for print */
+  .space-y-24 > * + * {
+    margin-top: 12mm !important;
+  }
+
+  /* Hide image placeholders */
+  .aspect-\[4\/3\].bg-gray-100 {
+    display: none !important;
+  }
+}

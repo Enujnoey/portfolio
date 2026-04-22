@@ -16,7 +16,7 @@ export default function Header({ lang, nav }: Props) {
   const isProject = pathname.startsWith(`/${lang}/projects/`)
 
   return (
-    <header className="sticky top-0 z-10 bg-white border-b border-gray-100">
+    <header className="sticky top-0 z-10 bg-white border-b border-gray-100 print:hidden">
       <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
 
         {/* 좌측: 프로젝트 상세면 All Projects 링크, 나머지는 YK 로고 */}

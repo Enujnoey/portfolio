@@ -151,7 +151,7 @@ export default async function ProjectDetail({
         </section>
 
         {/* Footer nav */}
-        <div className="pt-8 border-t border-gray-100">
+        <div className="pt-8 border-t border-gray-100 print:hidden">
           <Link
             href={`/${lang}#projects`}
             className="text-sm font-medium text-[#2563eb] hover:underline"
